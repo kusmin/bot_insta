@@ -1,0 +1,2 @@
+export WORKON_HOME=/home/renan/.virtualenvs
+export PROJECT_HOME=/home/renan/Devel
